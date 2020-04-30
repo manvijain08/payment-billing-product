@@ -42,7 +42,9 @@ The record has been updated.
 
 The entire record is shown 
  ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/12.png) 
+  ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/13.png)
 
 If we enter wrong password , it will diplay the alert message.
- ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/13.png) 
+ ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/14.png)
+ 
  
