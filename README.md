@@ -11,11 +11,7 @@ When we run this programme this admin page will be displayed .
 Username- Admin
 Password- Pass123
  
-
-If correct username & password entered then it will show the access to the project.
- ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/1.png)
-
-Now in this logged in page , we will click on “ Student Manager”.
+in this logged in page , we will click on “ Student Manager”.
 ![](https://raw.githubusercontent.com/manvijain08/payment-billing-product/master/2.png) 
 
 Now we will fill the student information and then add the record.
